@@ -1,5 +1,2 @@
-#  Normalize the Image
-#  Greyscale the Image
-#  Implement a Nice Network based on XY
-#  Try with my Data
-#  Viz and write Report 
+# Udacity City Traffic Sign Detection ND Project
+    This is my project for the 2nd Self Driving Car ND Project
