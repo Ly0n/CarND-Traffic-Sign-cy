@@ -1,3 +1,3 @@
-# CarND-Traffic-Sign-cy
-Project 2 for Udacity Nano Degree    
+# Udacity Traffic Sign Detection Project   
+# Author: Tobias Augspurger
 Please check the Jupiter Notebook   
